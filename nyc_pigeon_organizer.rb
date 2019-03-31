@@ -2,7 +2,7 @@ require "pry"
 
 def nyc_pigeon_organizer(data)
   pigeon_list = {}
-  data.each do |key, hash|
+  data.each do |attribute, hash|
     binding.pry
   end
 end
