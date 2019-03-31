@@ -5,5 +5,6 @@ def nyc_pigeon_organizer(data)
   data.each do |attribute, detail_hash|
     detail_hash.each do |key, array|
     binding.pry
+    ßend
   end
 end
